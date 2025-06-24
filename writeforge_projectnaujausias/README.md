@@ -1,3 +1,0 @@
-# WriteForge
-
-Kolektyvinės kūrybos platforma.
