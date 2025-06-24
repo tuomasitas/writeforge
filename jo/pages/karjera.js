@@ -1,1 +1,0 @@
-export default function Karjera() { return <h1>Karjeros galimybės</h1>; }
