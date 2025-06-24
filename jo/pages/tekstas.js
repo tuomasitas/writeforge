@@ -1,0 +1,1 @@
+export default function Tekstas() { return <h1>Teksto Kalvė</h1>; }

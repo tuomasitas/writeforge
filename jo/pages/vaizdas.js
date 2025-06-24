@@ -1,0 +1,1 @@
+export default function Vaizdas() { return <h1>Vaizdo Kalvė</h1>; }
