@@ -1,1 +1,0 @@
-export default function Apie() { return <h1>Apie platformą</h1>; }

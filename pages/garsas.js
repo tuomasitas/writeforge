@@ -1,1 +1,0 @@
-export default function Garsas() { return <h1>Garso Kalvė</h1>; }
