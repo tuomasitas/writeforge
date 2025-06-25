@@ -1,0 +1,1 @@
+export default function Apie() { return <main><h2>Apie WriteForge</h2></main>; }
